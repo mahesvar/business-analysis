@@ -4,5 +4,5 @@
 ### 2.which city sold the most product
 ### 3.What time should we display advertisements to maximize likelihood of customer's buying product
 ### 4.What products are most often sold together
-### 5.whcih product sold the most and why
+### 5.which product sold the most and why
 ### And finally plotting the graph which corelates the price of the product and sales of that product
